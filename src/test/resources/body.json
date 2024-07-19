@@ -1,0 +1,18 @@
+{
+  "id": 102,
+  "category": {
+    "id": 1,
+    "name": "dog"
+  },
+  "name": "sad dog",
+  "photoUrls": [
+    "https://img.razrisyika.ru/kart/126/502054-sobaka-bigl-38.jpg"
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "name": "blue eyes"
+    }
+  ],
+  "status": "available"
+}
